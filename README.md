@@ -16,9 +16,9 @@
    </div>
 </div>
 
-<hr/>
+### 👋 Hi, I'm 👦Rajib Bin Alam<hr/>
 
--  👋 Hi, this is 👦Rajib Bin Alam.
+
 -  👀 Become A __Full Stack Web Developer__
 -  🌱 Currently learning & Working __Laravel and Javascript__
 -  💞️ I’m looking to collaborate
