@@ -11,8 +11,11 @@
   <a href="https://twitter.com/rajibbinalam" target="__blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
+  <a href="https://rajibbinalam.netlify.app/" target="__blank">
+    <img src="https://img.shields.io/badge/Rajib_Bin_Alam-dark_shade?style=for-the-badge" titile="Rajib Bin Alam" alt="Rajib"/>
+  </a>
   <div>
-      <img src="https://komarev.com/ghpvc/?username=rajibbinalam&style=flat-square&color=brightgreen" alt=""/>
+      <img src="https://komarev.com/ghpvc/?username=rajibbinalam&style=flat-square&color=brightgreen" alt="Count"/>
    </div>
 </div>
 
