@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/rajibbinalam/" target="__blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.youtube.com/@rajibbinalam3724" target="__blank">
+  <a href="https://www.youtube.com/@rajibbinalam" target="__blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
   </a>
   <a href="https://twitter.com/rajibbinalam" target="__blank">
