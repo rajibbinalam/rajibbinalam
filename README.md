@@ -45,29 +45,29 @@
 
 ### Social
 <div>
-    <a href="https://www.facebook.com/in/imrba" target="__blank">
+    <a href="https://www.facebook.com/imrba" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="Facebook" **alt="Facebook" width="30" height="30"/>  
     </a>
-  <a href="https://www.instagram.com/rajibbinalam" target="__blank">
+  <a href="https://www.instagram.com/rajibbinalam" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" title="Facebook" **alt="Git" width="30" height="30"/>  
     </a>
-  <a href="https://stackoverflow.com/users/11970472/rajib-bin-alam" target="__blank">
+  <a href="https://stackoverflow.com/users/11970472/rajib-bin-alam" target="_blank">
         <img src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" title="Stack Overflow" **alt="Stack Overflow" width="30" height="30"/>  
     </a>
-  <a href="https://www.linkedin.com/in/rajibbinalam" target="__blank">
+  <a href="https://www.linkedin.com/in/rajibbinalam" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linked In" **alt="Linked In" width="30" height="30"/>  
     </a>
 </div>
 
 ### Available On:
 <div>
-    <a href="https://www.fiverr.com/rajibbinalam" target="__blank">
+    <a href="https://www.fiverr.com/rajibbinalam" target="_blank">
         <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/129_Fiverr_logo_logos-512.png" title="Fiverr" **alt="Fiverr" width="30" height="30"/>  
     </a>
-  <a href="https://www.upwork.com/freelancers/~012db8fdde4a971af8" target="__blank">
+  <a href="https://www.upwork.com/freelancers/~012db8fdde4a971af8" target="_blank">
         <img src="https://www.citypng.com/public/uploads/preview/upwork-round-logo-icon-png-116625559716y405kvdce.png" title="Up Work" **alt="Up Work" width="30" height="30"/>  
     </a>
-  <a href="https://www.freelancer.com/u/rajibbin" target="__blank">
+  <a href="https://www.freelancer.com/u/rajibbin" target="_blank">
         <img src="https://cdn.worldvectorlogo.com/logos/freelancer-1.svg" title="Freelancer" **alt="Freelancer" width="30" height="30"/>  
     </a>
 </div>
