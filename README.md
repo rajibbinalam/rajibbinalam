@@ -87,8 +87,7 @@
 
 ### :writing_hand: [Blog Posts](https://binaryvel.com) :
 <!-- BLOG-POST-LIST:START -->
-- [How to use bootstrap in laravel with vite](https://binaryvel.com/blogs/how-to-use-bootstrap-in-laravel-with-vite)
-- [A Comprehensive Guide to Laravel Validation Rules: Validating Phone Numbers](https://binaryvel.com/blogs/a-comprehensive-guide-to-laravel-validation-rules-validating-phone-numbers)
+- [Test Post](https://dev.to/itszed0/test-post-490g)
 <!-- BLOG-POST-LIST:END -->
 
 
