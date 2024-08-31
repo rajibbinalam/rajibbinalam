@@ -87,7 +87,7 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
+- [How to use bootstrap in laravel with vite]([https://dev.to/itszed0/test-post-490g](https://binaryvel.com/blogs/how-to-use-bootstrap-in-laravel-with-vite))
 <!-- BLOG-POST-LIST:END -->
 
 
