@@ -85,9 +85,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajibbinalam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### :writing_hand: Blog Posts :
+### :writing_hand: [Blog Posts](https://binaryvel.com) :
 <!-- BLOG-POST-LIST:START -->
-- [How to use bootstrap in laravel with vite]([https://dev.to/itszed0/test-post-490g](https://binaryvel.com/blogs/how-to-use-bootstrap-in-laravel-with-vite))
+- [How to use bootstrap in laravel with vite](https://binaryvel.com/blogs/how-to-use-bootstrap-in-laravel-with-vite)
+- [A Comprehensive Guide to Laravel Validation Rules: Validating Phone Numbers](https://binaryvel.com/blogs/a-comprehensive-guide-to-laravel-validation-rules-validating-phone-numbers)
 <!-- BLOG-POST-LIST:END -->
 
 
