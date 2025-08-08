@@ -76,7 +76,6 @@
  💻 Problem Solving, ⚽ Football, 🏸 Badminton, 🏊‍♂️ Swimming, 🚶‍♂️ Walking, ✈️ Travelling
 
 ### :fire: My Stats :
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rajibbinalam&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajibbinalam&show_icons=true&theme=radical)
@@ -87,7 +86,7 @@
 
 ### :writing_hand: [Blog Posts](https://binaryvel.com) :
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
+<!-- - [Test Post](https://dev.to/itszed0/test-post-490g) -->
 <!-- BLOG-POST-LIST:END -->
 
 
